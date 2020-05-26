@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+# A URL to refer people to when problems occur with this mod
+issueTrackerURL="https://github.com/Firenja/ImmersiveTools/issues" #optional
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+# The modid of the mod
+modId="immersivetools" #mandatory
+# The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
+version="1.0.0" #mandatory
+ # A display name for the mod
+displayName="Immersive Tools" #mandatory
+# A URL for the "homepage" for this mod, displayed in the mod UI
+displayURL="https://github.com/Firenja/ImmersiveTools" #optional
+# A text field displayed in the mod UI
+credits="" #optional
+# A text field displayed in the mod UI
+authors="" #optional
+# The description text for the mod (multi line!) (#mandatory)
+description=''' '''
+
